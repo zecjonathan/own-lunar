@@ -37,4 +37,4 @@ Before you begin, ensure you have the following:
 
 ## Conclusion
 
-Congratulations! You've successfully added a mod to Lunar Client. Enjoy your enhanced Minecraft experience with the new features provided by the mod. If you encounter any issues or have further questions, don't hesitate to reach out to the mod developer or the Lunar Client community for assistance. Happy gaming!
+Congratulations! Enjoy your modded version of Lunar.
